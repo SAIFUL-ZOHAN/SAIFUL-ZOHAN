@@ -9,14 +9,10 @@
 
 <br />
 
-hi, i'm [Saiful Zohan](https://SAIFUL-ZOHAN.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+hi, i'm [Saiful Zohan](https://SAIFUL-ZOHAN.me/),
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:shagor636462@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -35,7 +31,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   46 hrs 45 mins  ███████████████████████▓░   94.88 % 
+Flutter   46 hrs 45 mins  ███████████████████████▓░   94.88 % 
 JSON         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
@@ -46,13 +42,6 @@ TypeScript   7 mins          ░░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats

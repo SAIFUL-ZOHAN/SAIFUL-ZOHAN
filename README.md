@@ -2,25 +2,22 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/saiful_zohan">
-  <img align="left" alt="Saiful Zohan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
+<
 
 
 
 
 <br />
 
-hi, i'm [Saiful Zohan](https://SAIFUL-zohan.me/), a passionate self-taught flutter fontend developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Saiful Zohan](https://SAIFUL-ZOHAN.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/SAIFUL-ZOHAN/SAIFUL-ZOHAN/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any flutter work? do reach, [email](shagor636462@gmail.com) :)
-
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
@@ -38,17 +35,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-flutter   44 hrs 46 mins  ████████████████████████░   95.91 % 
-JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-ui/ux    18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JavaScript   46 hrs 45 mins  ███████████████████████▓░   94.88 % 
+JSON         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/saiful_zohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -61,7 +57,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="SAIFUL-ZOHAN" />
 
 
 
